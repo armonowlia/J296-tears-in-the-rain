@@ -7,3 +7,6 @@
 *This is italics*
 
 _This is italics as well <br>with underscores_</br>
+
+**This is bold** with asteriks
+__This is bold__ with underscores
