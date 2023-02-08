@@ -8,5 +8,5 @@
 
 _This is italics as well <br>with underscores_</br>
 
-**This is bold** with asteriks
+**This is bold** with asteriks <br></br>
 __This is bold__ with underscores
