@@ -6,4 +6,4 @@
 
 *This is italics*
 
-_This is italics as well  with underscores_
+_This is italics as well <br>with underscores_</br>
